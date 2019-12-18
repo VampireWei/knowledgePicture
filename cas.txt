@@ -1,0 +1,3 @@
+client接收并校验ST 	CasAuthenticationProvider	 getServiceUrl	
+server校验ST 		/serviceValidate    ServiceValidateController Cas响应Assertion xml格式 
+cas client登出失败，可以查看cas日志的错误 Error Sending message to url endpoint....
